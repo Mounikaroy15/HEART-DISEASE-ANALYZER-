@@ -1,8 +1,7 @@
  # Heart Disease Data Analysis using Tableau
 
 🔗 **Project Demo (Video Recording):**  
-https://drive.google.com/file/d/11uqiasmZqot6PjdCWRex4QzDsuRnwkrA/view?usp=drive_link
-
+https://drive.google.com/file/d/1s6GSNNkdZVWYiUgQPDT-ug02fdSMcTUr/view?usp=sharing
 ---
 
 ## 📌 Project Overview

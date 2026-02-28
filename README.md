@@ -1,42 +1,85 @@
-# HEART-DISEASE-ANALYZER-
-Objective 🎯
-The goal of this project is to analyse the heart disease occurrence, based on a combination of features that describes the heart disease.
+ # Heart Disease Data Analysis using Tableau
 
-Poblem Statement ❓
-Health is real wealth in the pandemic time we all realized the brute effects of covid 19 on all irrespective of any status. You are required to analyse this health and medical data for better future preparation.
+🔗 **Project Demo (Video Recording):**  
+https://drive.google.com/file/d/11uqiasmZqot6PjdCWRex4QzDsuRnwkrA/view?usp=drive_link
 
+---
 
+## 📌 Project Overview
 
-Technology �
-Business Intelligence
+Heart disease remains one of the leading causes of mortality worldwide. This project focuses on analyzing heart disease data using Tableau to identify major risk factors and patterns affecting cardiovascular health.
 
-Domain 🏥
-Healthcare
+The dashboard transforms raw healthcare data into meaningful and interactive visual insights to support preventive healthcare decision-making.
 
-Project Difficulty level 🥇
-Advanced
+---
 
-Programming Language 🐍
-Python
+## 🎯 Purpose of the Project
 
-Tools 🛠
-Jupyter Notebook, MS Excel, MS Power BI
+The purpose of this project is to analyze heart disease data using Tableau to identify key risk factors such as age, BMI, lifestyle habits, and medical conditions. The project converts raw data into interactive dashboards for better understanding and analysis. It highlights high-risk groups and supports data-driven healthcare awareness. The goal is to demonstrate how visualization tools can help in preventive healthcare strategies.
 
-Conclusion 💡
--45.87% People suffering from heart disease.
+---
 
--Elderly Aged Men are more (50 to 60 Years) and Females are more in 55 to 65 Years Category
+## 📊 Key Features
 
--Males are more prone to heart disease.
+- Age-wise heart disease analysis  
+- BMI distribution visualization  
+- Gender comparison  
+- Smoking and alcohol impact analysis  
+- Physical activity assessment  
+- Diabetes and stroke relationship analysis  
+- Interactive dashboard with filters  
+- Structured Story board explanation  
 
--Elderly Aged People are more prone to heart disease.
+---
 
--People having asymptomatic chest pain have a higher chance of heart disease.
+## 📈 Key Insights
 
--High number of cholesterol level in people having heart disease.
+- Heart disease risk increases significantly after age 50  
+- Higher BMI levels show greater heart disease occurrence  
+- Smoking and physical inactivity increase risk  
+- Diabetes and stroke history strongly correlate with heart disease  
+- Poor general health increases cardiovascular risk  
 
--Blood Pressure increases between age of 50 to 60 and somehow continue till 70.
+---
 
--Cholesterol and maximum heart rate Increasing in the age group of 50 60.
+## 🛠 Tools & Technologies Used
 
--ST depression mostly increases between the age group of 30 40.
+- Tableau Desktop (Public Edition)  
+- CSV Dataset  
+- Data Cleaning & Preprocessing  
+- Calculated Fields & Filters  
+- GitHub (Documentation & Version Control)  
+
+---
+
+## 🏗 Solution Architecture
+
+Raw Dataset → Data Cleaning → Tableau Processing →  
+Interactive Dashboards → Story Visualization → Insights & Decision Support  
+
+---
+
+## 📂 Project Structure
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates how healthcare data can be transformed into meaningful visual insights using Tableau. The dashboard helps identify major heart disease risk factors and supports preventive healthcare awareness through data-driven analysis.
+
+---
+
+## 🚀 Future Scope
+
+- Integration of real-time healthcare data  
+- Implementation of machine learning for risk prediction  
+- Web-based dashboard deployment  
+- Advanced trend forecasting  
+- Inclusion of additional health indicators  
+
+---
+
+## 👩‍💻 Author
+Mukkamalla Venkata Bhavana
+Internship Project 
+2026
